@@ -31,10 +31,13 @@ dependencies:
   flutter:
     sdk: flutter
   firebase_core: ^2.31.1
-  firebase_auth: ^4.6.1
+  firebase_auth: ^4.17.8
+  fluttertoast: ^8.0.8
   cloud_firestore: ^4.7.1
+  firebase_storage: ^11.0.1
   provider: ^6.0.5
   image_picker: ^1.0.0
+
 
 
 
